@@ -1,0 +1,12 @@
+galaxy_info:
+  author: GoContainer
+  description: Handle System Updates
+  license: MIT
+  min_ansible_version: 1.9
+  platforms:
+  - name: Ubuntu
+    versions:
+    - xenial
+  galaxy_tags:
+  - system
+dependencies: []
